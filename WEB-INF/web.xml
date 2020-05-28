@@ -1,0 +1,5 @@
+<web-app>
+<display-name> JSP - Basic Calculator (+ , - , * , / , %)  </display-name>
+<description>  This is the demonstration of jsp basic operation with error handling  </description>
+     
+</web-app>
